@@ -1,0 +1,3 @@
+com\mycompany\sockets\TCPClient.class
+com\mycompany\sockets\TCPServer$ClientHandler.class
+com\mycompany\sockets\TCPServer.class
